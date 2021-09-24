@@ -42,3 +42,13 @@
 .login > p {
 	margin-top:  20px;
 }
+
+.login__withGoogle{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.login__withGoogle > p{
+	margin-left: 5px;
+}
